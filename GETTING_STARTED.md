@@ -30,7 +30,7 @@ By the end of this guide, you'll have:
 
 ```bash
 # Clone the template
-git clone https://github.com/yourusername/product_context_engineering.git
+git clone https://github.com/victor-silva-dias/product_context_engineering.git
 
 # Copy into your existing project
 cp -r product_context_engineering/ /path/to/your/project/
